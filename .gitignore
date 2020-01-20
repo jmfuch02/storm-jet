@@ -1,3 +1,8 @@
 # jetbrains
 .idea/
+
+# virtual env
 /venv/
+
+# sqlite
+*.sqlite3
